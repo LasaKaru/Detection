@@ -1,0 +1,32 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#user-interface {
+    text-align: center;
+    padding: 20px;
+}
+
+#content-input {
+    width: 80%;
+    height: 100px;
+    margin: 10px;
+}
+
+#analyze-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #0078d4;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#analysis-result {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+/* Add more custom styling for your 3D visualization as needed */
